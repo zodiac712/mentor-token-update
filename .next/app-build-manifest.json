@@ -1,0 +1,93 @@
+{
+  "pages": {
+    "/layout": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/layout.css",
+      "static/chunks/app/layout.js"
+    ],
+    "/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/page.css",
+      "static/chunks/app/page.js"
+    ],
+    "/login/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/login/page.css",
+      "static/chunks/app/login/page.js"
+    ],
+    "/startup-dashboard/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/startup-dashboard/page.css",
+      "static/chunks/app/startup-dashboard/page.js"
+    ],
+    "/startup-dashboard/startup-jobs/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/startup-dashboard/startup-jobs/page.css",
+      "static/chunks/app/startup-dashboard/startup-jobs/page.js"
+    ],
+    "/startup-dashboard/startup-mentors/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/startup-dashboard/startup-mentors/page.css",
+      "static/chunks/app/startup-dashboard/startup-mentors/page.js"
+    ],
+    "/startup-dashboard/startup-mentors/kierra-press/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/startup-dashboard/startup-mentors/kierra-press/page.css",
+      "static/chunks/app/startup-dashboard/startup-mentors/kierra-press/page.js"
+    ],
+    "/startup-dashboard/startup-mentors/alison-vetrovs/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/startup-dashboard/startup-mentors/alison-vetrovs/page.css",
+      "static/chunks/app/startup-dashboard/startup-mentors/alison-vetrovs/page.js"
+    ],
+    "/startup-dashboard/startup-mentors/marcus-carder/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/startup-dashboard/startup-mentors/marcus-carder/page.css",
+      "static/chunks/app/startup-dashboard/startup-mentors/marcus-carder/page.js"
+    ],
+    "/register/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/register/page.css",
+      "static/chunks/app/register/page.js"
+    ],
+    "/register-mentor/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/register-mentor/page.css",
+      "static/chunks/app/register-mentor/page.js"
+    ],
+    "/mentor-dashboard/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/mentor-dashboard/page.css",
+      "static/chunks/app/mentor-dashboard/page.js"
+    ],
+    "/mentor-dashboard/my-stats/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/mentor-dashboard/my-stats/page.css",
+      "static/chunks/app/mentor-dashboard/my-stats/page.js"
+    ],
+    "/mentor-dashboard/jobsfeedmentor/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/css/app/mentor-dashboard/jobsfeedmentor/page.css",
+      "static/chunks/app/mentor-dashboard/jobsfeedmentor/page.js"
+    ],
+    "/_not-found/page": [
+      "static/chunks/webpack.js",
+      "static/chunks/main-app.js",
+      "static/chunks/app/_not-found/page.js"
+    ]
+  }
+}

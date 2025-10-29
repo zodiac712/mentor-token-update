@@ -1,0 +1,495 @@
+/*!********************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./styles/profile-mentors/Alison-Vetrovs.module.css ***!
+  \********************************************************************************************************************************************************************************************************************************************************************************************/
+.Alison-Vetrovs_container__e_GPQ {
+  min-height: 100vh;
+  background: #F5F5F9;
+  display: flex;
+}
+
+
+.Alison-Vetrovs_sidebar__SmFgk {
+  width: 260px;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  padding: 2rem 1.5rem;
+  box-shadow: 0 2px 16px rgba(160, 163, 189, 0.07);
+  min-height: 100vh;
+}
+
+.Alison-Vetrovs_logoRow__OylyG {
+  display: flex;
+  align-items: center;
+  margin-bottom: 3rem;
+}
+
+.Alison-Vetrovs_logoText__5LpF_ {
+  color: #696CFF;
+  font-size: 22px;
+  font-weight: bold;
+  margin-left: 0.75rem;
+}
+
+.Alison-Vetrovs_nav__bcCow {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.Alison-Vetrovs_navButton__s0ZZ_ {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.75rem 1rem;
+  border-radius: 0.5rem;
+  font-weight: 600;
+  font-size: 17px;
+  color: #566A7F;
+  background: none;
+  border: none;
+  transition: background 0.2s, color 0.2s;
+  cursor: pointer;
+}
+
+.Alison-Vetrovs_navButtonActive__0AUbo {
+  background: #F6F7FF;
+  color: #696CFF;
+}
+
+.Alison-Vetrovs_navButton__s0ZZ_:hover:not(.Alison-Vetrovs_navButtonActive__0AUbo) {
+  background: #F6F7FF;
+}
+
+.Alison-Vetrovs_logoutButton__6Sa8n {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: auto;
+  color: #696CFF;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 0.5rem 0.5rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.Alison-Vetrovs_logoutButton__6Sa8n:hover {
+  text-decoration: underline;
+}
+
+
+.Alison-Vetrovs_main__n_9Sc {
+  flex: 1;
+  background: #F5F5F9;
+  padding: 2.5rem;
+}
+
+.Alison-Vetrovs_header__mVYWP {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+}
+
+.Alison-Vetrovs_searchContainer__t8qVQ {
+  position: relative;
+  width: 420px;
+}
+
+.Alison-Vetrovs_searchInput__Xn2_U {
+  width: 100%;
+  padding: 0.75rem 1rem 0.75rem 1rem;
+  border-radius: 30px;
+  background: #fff;
+  color: #23272E;
+  font-size: 17px;
+  font-weight: 500;
+  box-shadow: 0 2px 16px rgba(160, 163, 189, 0.07);
+  border: none;
+  outline: none;
+}
+
+.Alison-Vetrovs_profileRow__3gyBk {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-right: 40px;
+}
+
+.Alison-Vetrovs_profileAvatarSmall__ScyJV {
+  border-radius: 50%;
+  object-fit: cover;
+  width: 48px;
+  height: 48px;
+}
+
+.Alison-Vetrovs_profileNameSmall___ImI5 {
+  color: #23272E;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+
+.Alison-Vetrovs_profileAboutRow__jIr0K {
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.Alison-Vetrovs_profileCard__QxuiZ {
+  background: #fff;
+  border-radius: 18px;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 320px;
+  box-shadow: 0 2px 16px rgba(160, 163, 189, 0.07);
+  min-height: 370px;
+}
+
+.Alison-Vetrovs_profileAvatar__aAuJs {
+  border-radius: 50%;
+  object-fit: cover;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1rem;
+}
+
+.Alison-Vetrovs_profileNameRow__UrluY {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.Alison-Vetrovs_profileName__e0ynb {
+  color: #23272E;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.Alison-Vetrovs_profileJob__5rFl9 {
+  color: #696CFF;
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.Alison-Vetrovs_profileContact__1XTYe {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #A0A3BD;
+  font-size: 15px;
+  margin-bottom: 0.25rem;
+}
+
+
+.Alison-Vetrovs_aboutCard__SmG5t {
+  background: #fff;
+  border-radius: 18px;
+  padding: 2rem;
+  flex: 1;
+  box-shadow: 0 2px 16px rgba(160, 163, 189, 0.07);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 370px;
+}
+
+.Alison-Vetrovs_aboutTitle__IXQyR {
+  color: #696CFF;
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.Alison-Vetrovs_aboutSkills__o2tc5 {
+  font-weight: 600;
+  color: #23272E;
+  font-size: 16px;
+  margin-bottom: 0.5rem;
+}
+
+.Alison-Vetrovs_aboutText__HSVnu {
+  color: #A0A3BD;
+  font-size: 15px;
+}
+
+.Alison-Vetrovs_offerJobBtn__jaob7 {
+  background: #696CFF;
+  color: #fff;
+  padding: 0.5rem 1.5rem;
+  border-radius: 10px;
+  font-weight: 600;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  align-self: flex-end;
+  margin-top: 1.5rem;
+  transition: background 0.2s;
+}
+
+.Alison-Vetrovs_offerJobBtn__jaob7:hover {
+  background: #5a5ed8;
+}
+
+
+.Alison-Vetrovs_jobsRow___OPtZ {
+  display: flex;
+  gap: 2rem;
+}
+
+
+.Alison-Vetrovs_assignedJobs__QycAH {
+  flex: 1;
+}
+
+.Alison-Vetrovs_pendingJobs__EIpKF {
+  width: 340px;
+}
+
+.Alison-Vetrovs_sectionTitle__DzLLy {
+  color: #23272E;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.Alison-Vetrovs_tabs__ChANq {
+  display: flex;
+  gap: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.Alison-Vetrovs_tabButton__3UR99 {
+  font-weight: 600;
+  padding-bottom: 0.5rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  border-bottom: 2px solid transparent;
+  background: none;
+  color: #A0A3BD;
+  font-size: 16px;
+  cursor: pointer;
+  transition: color 0.2s, border-color 0.2s;
+}
+
+.Alison-Vetrovs_tabButtonActive__arlzD {
+  color: #696CFF;
+  border-bottom: 2px solid #696CFF;
+}
+
+.Alison-Vetrovs_jobList__VE_ZH {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px 0 rgba(76, 110, 245, 0.04);
+  padding: 0.5rem 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.Alison-Vetrovs_jobCard__J_MGM {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem 1.5rem;
+  border-bottom: 1px solid #f0f0f5;
+}
+
+.Alison-Vetrovs_jobCard__J_MGM:last-child {
+  border-bottom: none;
+}
+
+.Alison-Vetrovs_jobName__mE9nW {
+  color: #23272E;
+  font-size: 15px;
+}
+
+.Alison-Vetrovs_statusDone__KTk33 {
+  background: #E7F9F1;
+  color: #48E285;
+  padding: 0.25rem 1rem;
+  border-radius: 9999px;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.Alison-Vetrovs_statusCanceled__G67FW {
+  background: #FFE7F1;
+  color: #FF6A9A;
+  padding: 0.25rem 1rem;
+  border-radius: 9999px;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.Alison-Vetrovs_inProgressRow__7vwOZ {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.Alison-Vetrovs_statusInProgress__fl76B {
+  background: #F6F7FF;
+  color: #696CFF;
+  padding: 0.25rem 1rem;
+  border-radius: 9999px;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.Alison-Vetrovs_cancelJobBtn__lXNln {
+  border: 1px solid #FF6A9A;
+  color: #FF6A9A;
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  font-size: 13px;
+  font-weight: 600;
+  background: #fff;
+  margin-left: 0.5rem;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.Alison-Vetrovs_cancelJobBtn__lXNln:hover {
+  background: #FFE7F1;
+}
+
+.Alison-Vetrovs_cancelOfferBtn__R7CtY {
+  border: 1px solid #FF6A9A;
+  color: #FF6A9A;
+  padding: 0.25rem 1rem;
+  border-radius: 9999px;
+  font-size: 13px;
+  font-weight: 600;
+  background: #fff;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.Alison-Vetrovs_cancelOfferBtn__R7CtY:hover {
+  background: #FFE7F1;
+}
+
+
+.Alison-Vetrovs_modalOverlay__6UAPW {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0,0,0,0.3);
+  backdrop-filter: blur(2px);
+}
+
+.Alison-Vetrovs_modal___09su {
+  background: #fff;
+  border-radius: 18px;
+  box-shadow: 0 8px 32px 0 rgba(105,108,255,0.12);
+  padding: 2rem;
+  width: 480px;
+  position: relative;
+  border: 4px solid #BFC6FF;
+}
+
+.Alison-Vetrovs_closeModalBtn__Xkthe {
+  position: absolute;
+  top: 1.5rem;
+  right: 1.5rem;
+  color: #696CFF;
+  background: none;
+  border: none;
+  font-size: 22px;
+  font-weight: bold;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.Alison-Vetrovs_modalTitle__ZXKYR {
+  color: #23272E;
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.Alison-Vetrovs_modalDesc__cCjYp {
+  color: #A0A3BD;
+  font-size: 16px;
+  margin-bottom: 1.5rem;
+}
+
+.Alison-Vetrovs_modalField__pT_54 {
+  margin-bottom: 1rem;
+}
+
+.Alison-Vetrovs_modalLabel__w0w2c {
+  display: block;
+  color: #696CFF;
+  font-size: 15px;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.Alison-Vetrovs_modalLabelDesc__HoGQQ {
+  display: block;
+  color: #A0A3BD;
+  font-size: 15px;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.Alison-Vetrovs_modalInput__Ii9Qu {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  border-radius: 10px;
+  border: 2px solid #BFC6FF;
+  color: #23272E;
+  font-size: 16px;
+  font-weight: 500;
+  outline: none;
+  margin-bottom: 0.5rem;
+}
+
+.Alison-Vetrovs_modalInput__Ii9Qu:focus {
+  border-color: #696CFF;
+}
+
+.Alison-Vetrovs_modalTextarea__3SC62 {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  border-radius: 10px;
+  border: 2px solid #BFC6FF;
+  color: #23272E;
+  font-size: 16px;
+  font-weight: 500;
+  outline: none;
+  resize: none;
+}
+
+.Alison-Vetrovs_modalTextarea__3SC62:focus {
+  border-color: #696CFF;
+}
+
+.Alison-Vetrovs_sendJobOfferBtn__1iDb2 {
+  width: 100%;
+  background: #696CFF;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 0.75rem 0;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  margin-top: 0.5rem;
+  transition: background 0.2s;
+}
+
+.Alison-Vetrovs_sendJobOfferBtn__1iDb2:hover {
+  background: #5a5ed8;
+}

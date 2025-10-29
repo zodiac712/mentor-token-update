@@ -1,0 +1,473 @@
+/*!***********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./styles/Mentor/JobsFeedMentor.module.css ***!
+  \***********************************************************************************************************************************************************************************************************************************************************************************/
+.JobsFeedMentor_bg__GKaAJ {
+  min-height: 100vh;
+  background: #f7f7fb;
+  display: flex;
+}
+
+.JobsFeedMentor_sidebar__ykatM {
+  width: 260px;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  padding: 2.5rem 1.5rem 2.5rem 1.5rem;
+  min-height: 100vh;
+  box-shadow: 0 2px 16px 0 rgba(105,108,255,0.07);
+}
+
+.JobsFeedMentor_logoRow__XRPRs {
+  display: flex;
+  align-items: center;
+  gap: 0.7rem;
+  margin-bottom: 2.5rem;
+}
+
+.JobsFeedMentor_logoText__pwMfC {
+  color: #696CFF;
+  font-size: 22px;
+  font-weight: bold;
+  margin-left: 0.5rem;
+}
+
+.JobsFeedMentor_nav__029m_ {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+  margin-bottom: auto;
+}
+
+.JobsFeedMentor_navButton__TFbUL {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.75rem 1rem;
+  border-radius: 10px;
+  font-size: 17px;
+  font-weight: 600;
+  color: #566A7F;
+  background: none;
+  border: none;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+}
+
+.JobsFeedMentor_navButton__TFbUL:hover {
+  background: #F6F7FF;
+}
+
+.JobsFeedMentor_navButtonActive__HR4gp {
+  background: #E6E9FF;
+  color: #696CFF;
+}
+
+.JobsFeedMentor_logoutButton__ZtGIH {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: 2.5rem;
+  color: #696CFF;
+  font-size: 16px;
+  font-weight: 500;
+  background: none;
+  border: none;
+  padding: 0.5rem 0.5rem;
+  cursor: pointer;
+  transition: text-decoration 0.15s;
+}
+
+.JobsFeedMentor_logoutButton__ZtGIH:hover {
+  text-decoration: underline;
+}
+
+.JobsFeedMentor_main__lGsd_ {
+  flex: 1;
+  background: #f7f7fb;
+  padding: 2.5rem 2.5rem 2.5rem 2.5rem;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.JobsFeedMentor_headerRow__K_09v {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 2.5rem;
+}
+
+.JobsFeedMentor_searchWrap__BW2Kd {
+  position: relative;
+  width: 420px;
+}
+
+.JobsFeedMentor_searchInput__w51S_ {
+  width: 100%;
+  padding: 0.85rem 1rem 0.85rem 2.7rem;
+  border-radius: 30px;
+  background: #fff;
+  color: #23272E;
+  font-size: 17px;
+  font-weight: 500;
+  border: none;
+  box-shadow: 0 2px 8px 0 rgba(76, 110, 245, 0.04);
+  outline: none;
+}
+
+.JobsFeedMentor_searchIcon__tus02 {
+  position: absolute;
+  left: 1.1rem;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+}
+
+.JobsFeedMentor_profileRow__5QuG0 {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.JobsFeedMentor_profileInfo__x3SqD {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.JobsFeedMentor_profileName__Hq8eC {
+  font-weight: 600;
+  font-size: 1rem;
+  color: #222;
+  line-height: 1.2;
+}
+
+.JobsFeedMentor_profileRole__g_Dm_ {
+  font-size: 0.85rem;
+  margin-top: 0.1rem;
+  line-height: 1.2;
+}
+
+
+.JobsFeedMentor_profileImg__jTIuh {
+  border-radius: 50%;
+  object-fit: cover;
+  width: 44px;
+  height: 44px;
+}
+
+.JobsFeedMentor_titleRow__8JC2_ {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-end;
+  margin-bottom: 1.5rem;
+}
+
+.JobsFeedMentor_title__MaIOU {
+  color: #23272E;
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 10px;
+}
+
+.JobsFeedMentor_filtersRow__sGo21 {
+  display: flex;
+  gap: 1.2rem;
+  align-items: center;
+  margin-top: 0.5rem;
+}
+
+.JobsFeedMentor_filterGroup__xLUdM {
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+
+.JobsFeedMentor_filterLabel__XVn6G {
+  color: #A0A3BD;
+  font-size: 0.97rem;
+}
+
+.JobsFeedMentor_filterBtn__Frn1G {
+  background: #f7f7fb;
+  border: none;
+  border-radius: 7px;
+  padding: 0.38rem 1.1rem 0.38rem 0.8rem;
+  font-size: 0.97rem;
+  color: #23272E;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.4rem;
+}
+.JobsFeedMentor_filterBtn__Frn1G:hover {
+  background: #F6F7FF;
+}
+
+.JobsFeedMentor_filtersBtn__OFFun {
+  background: #f7f7fb;
+  border: none;
+  border-radius: 7px;
+  padding: 0.38rem 1.4rem;
+  font-size: 0.97rem;
+  color: #696cff;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  font-weight: 500;
+}
+
+.JobsFeedMentor_filtersBtn__OFFun:hover {
+  background: #F6F7FF;
+}
+
+.JobsFeedMentor_dropdownMenu__Tng24 {
+  position: absolute;
+  top: 2.3rem;
+  left: 3rem;
+  background: #fff;
+  border-radius: 7px;
+  box-shadow: 0 4px 16px 0 rgba(105,108,255,0.13);
+  min-width: 120px;
+  z-index: 10;
+  padding: 0.3rem 0;
+}
+
+.JobsFeedMentor_dropdownMenu__Tng24 li {
+  padding: 0.5rem 1.1rem;
+  cursor: pointer;
+  font-size: 0.97rem;
+  color: #23272E;
+  transition: background 0.13s;
+ 
+}
+
+.JobsFeedMentor_dropdownMenu__Tng24 li:hover,
+.JobsFeedMentor_dropdownActive__ft5ZH {
+  background: #f7f7fb;
+  color: #696cff;
+}
+
+.JobsFeedMentor_gridBtn__c3b7T {
+  background: #fff;
+  border: none;
+  border-radius: 8px;
+  padding: 0.5rem 0.7rem;
+  display: flex;
+  align-items: center;
+  cursor: pointer;
+  box-shadow: 0 2px 8px 0 rgba(76, 110, 245, 0.04);
+  transition: background 0.15s;
+}
+
+.JobsFeedMentor_gridBtn__c3b7T:hover {
+  background: #F6F7FF;
+}
+
+.JobsFeedMentor_jobsGrid__7ffk_ {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(260px, 1fr));
+  gap: 1.5rem;
+}
+
+
+
+.JobsFeedMentor_jobCard__Q9FUN {
+  background: #fff;
+  border-radius: 14px;
+  box-shadow: 0 2px 16px 0 rgba(105,108,255,0.07);
+  padding: 1.3rem 1.2rem 1.2rem 1.2rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.7rem;
+}
+
+.JobsFeedMentor_jobHeader__StzmA {
+  display: flex;
+  align-items: center;
+  gap: 0.8rem;
+  margin-bottom: 0.3rem;
+}
+
+.JobsFeedMentor_jobLogo__37U3B {
+  width: 40px;
+  height: 40px;
+  border-radius: 10px;
+  object-fit: cover;
+  background: #f7f7fb;
+}
+
+.JobsFeedMentor_jobCompany__T8t7p {
+  font-size: 1rem;
+  font-weight: 600;
+  color: #23272E;
+}
+
+.JobsFeedMentor_jobTitle__slypF {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #566A7F;
+}
+
+.JobsFeedMentor_jobDesc__pkiFO {
+  color: #A0A3BD;
+  font-size: 0.98rem;
+  margin-bottom: 0.7rem;
+  line-height: 1.6;
+}
+
+.JobsFeedMentor_viewBtn__zuNLe {
+  background: #696CFF;
+  color: #fff;
+  font-weight: 600;
+  font-size: 1rem;
+  padding: 0.5rem 1.6rem;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  align-self: flex-start;
+  transition: background 0.18s;
+}
+.JobsFeedMentor_viewBtn__zuNLe:hover {
+  background: #5a5ed8;
+}
+
+
+.JobsFeedMentor_modalOverlay__nzBDx {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(34, 34, 34, 0.18);
+  z-index: 1000;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.JobsFeedMentor_modalBox__mKahd {
+  background: #fff;
+  border-radius: 18px;
+  padding: 2.5rem 2.5rem 2rem 2.5rem;
+  min-width: 350px;
+  max-width: 370px;
+  width: 100%;
+  box-shadow: 0 4px 32px 0 rgba(105,108,255,0.13);
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  animation: JobsFeedMentor_fadeIn__to4AC 0.2s;
+}
+
+
+.JobsFeedMentor_closeBtn__7S2qC {
+  position: absolute;
+  top: 18px;
+  right: 22px;
+  background: none;
+  border: none;
+  font-size: 1.6rem;
+  color: #A0A3BD;
+  cursor: pointer;
+  z-index: 2;
+  transition: color 0.15s;
+}
+.JobsFeedMentor_closeBtn__7S2qC:hover {
+  color: #696cff;
+}
+
+.JobsFeedMentor_modalHeader__WqKix {
+  display: flex;
+  align-items: center;
+  gap: 1.1rem;
+  margin-bottom: 1.2rem;
+}
+
+.JobsFeedMentor_modalLogo__Kbj1S {
+  width: 56px;
+  height: 56px;
+  border-radius: 12px;
+  object-fit: cover;
+  background: #f7f7fb;
+}
+
+.JobsFeedMentor_modalCompany__lJpYT {
+  font-size: 1.13rem;
+  font-weight: 600;
+  color: #23272E;
+  margin-top: 0.2rem;
+}
+
+.JobsFeedMentor_modalTitle__iHoWe {
+  font-size: 1.05rem;
+  font-weight: 600;
+  color: #566A7F;
+  margin-bottom: 1.1rem;
+}
+
+.JobsFeedMentor_modalDesc__mVj48 {
+  color: #A0A3BD;
+  font-size: 0.98rem;
+  margin-bottom: 2.1rem;
+  line-height: 1.6;
+  white-space: pre-line;
+}
+
+.JobsFeedMentor_modalApplyBtn__jvdeI {
+  background: #696CFF;
+  color: #fff;
+  font-weight: 600;
+  font-size: 1rem;
+  padding: 0.65rem 2.2rem;
+  border-radius: 8px;
+  border: none;
+  cursor: pointer;
+  align-self: flex-start;
+  transition: background 0.18s;
+}
+
+.JobsFeedMentor_modalApplyBtn__jvdeI:hover {
+  background: #5a5ed8;
+}
+
+.JobsFeedMentor_appliedMsg__QvG6L {
+  margin-top: 1rem;
+  color: #696cff;
+  font-size: 1rem;
+  font-weight: 600;
+  background: #f7f7fb;
+  padding: 0.3rem 1.2rem;
+  border-radius: 8px;
+  display: inline-block;
+  letter-spacing: 0.02em;
+}
+
+@keyframes JobsFeedMentor_fadeIn__to4AC {
+  from { opacity: 0; transform: scale(0.98);}
+  to { opacity: 1; transform: scale(1);}
+}
+
+  @media (max-width: 1400px) {
+    .JobsFeedMentor_jobsGrid__7ffk_ {
+      grid-template-columns: repeat(4, 1fr);
+    }
+  }
+  @media (max-width: 1100px) {
+    .JobsFeedMentor_jobsGrid__7ffk_ {
+      grid-template-columns: repeat(3, 1fr);
+    }
+  }
+  @media (max-width: 900px) {
+    .JobsFeedMentor_jobsGrid__7ffk_ {
+      grid-template-columns: repeat(2, 1fr);
+    }
+  }
+  @media (max-width: 600px) {
+    .JobsFeedMentor_jobsGrid__7ffk_ {
+      grid-template-columns: 1fr;
+      gap: 1rem;
+    }
+  }

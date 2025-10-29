@@ -1,0 +1,291 @@
+/*!*************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./styles/register/RegisterMentor.module.css ***!
+  \*************************************************************************************************************************************************************************************************************************************************************************************/
+.RegisterMentor_bg__H8AUw {
+  min-height: 100vh;
+  background: #F6F7FF;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.RegisterMentor_registerContainer__7k2Yo {
+  display: flex;
+  width: 1260px;
+  height: 728px;
+  background: #fff;
+  border-radius: 10px;
+  box-shadow: 0 8px 32px 0 rgba(105,108,255,0.10);
+  overflow: hidden;
+}
+
+.RegisterMentor_left__6NUck {
+  width: 50%;
+  height: 100%;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  background: linear-gradient(135deg, #696CFF 0%, #9574FF 100%);
+  overflow: visible;
+}
+
+.RegisterMentor_leftBgLogo__32dJR {
+  position: absolute;
+  inset: 0;
+  z-index: 0;
+}
+
+.RegisterMentor_bgLogoImg__qC1Nh {
+  pointer-events: none;
+  user-select: none;
+}
+
+.RegisterMentor_rocketWrap__mCuCu {
+  position: absolute;
+  left: 18%;
+  bottom: -14%;
+  z-index: 10;
+  pointer-events: none;
+}
+
+.RegisterMentor_rocketImg__8vdy1 {
+  max-width: 1080px;
+  max-height: 1080px;
+}
+
+.RegisterMentor_leftText__tu2W2 {
+  padding-top: 3rem;
+  padding-left: 3rem;
+  padding-right: 2rem;
+  z-index: 10;
+  position: relative;
+}
+
+.RegisterMentor_leftText__tu2W2 h2 {
+  color: #fff;
+  font-size: 78px;
+  font-weight: 800;
+  line-height: 1.05;
+  margin-bottom: 0.75rem;
+}
+
+.RegisterMentor_leftText__tu2W2 p {
+  color: #fff;
+  font-size: 17.5px;
+  font-weight: 500;
+  margin-bottom: 0.5rem;
+}
+
+.RegisterMentor_leftFooter__1FLOp {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding-left: 3rem;
+  padding-bottom: 2rem;
+  z-index: 20;
+  position: relative;
+}
+
+.RegisterMentor_leftFooterRow__fctOa {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.RegisterMentor_leftFooterLogo__wVpnO {
+  margin-right: 0.5rem;
+}
+
+.RegisterMentor_leftFooter__1FLOp span {
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.RegisterMentor_leftFooterDomain__2Azx0 {
+  color: #fff;
+  font-size: 13px;
+  margin-left: 2rem;
+  margin-top: 0.3rem;
+}
+
+.RegisterMentor_right__uh_ng {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  padding: 0 3rem;
+  background: #fff;
+  border-top-left-radius: 40px;
+  border-bottom-left-radius: 40px;
+}
+
+.RegisterMentor_formWrap__x2h0z {
+  width: 100%;
+  max-width: 400px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: relative;
+}
+
+.RegisterMentor_svgTop__H_DK6 {
+  width: 100%;
+  display: flex;
+  justify-content: flex-start;
+  margin-bottom: 0.5rem;
+}
+
+.RegisterMentor_formTitle__0G0v7 {
+  color: #434B5D;
+  font-size: 28px;
+  font-weight: 800;
+  text-align: left;
+  letter-spacing: -0.5px;
+  margin-bottom: 2rem;
+  margin-top: 0.5rem;
+  width: 100%;
+}
+
+.RegisterMentor_profileBtn__X1Ltp {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  border: 2px solid #696CFF;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1.5rem;
+  background: #fff;
+  transition: background 0.15s, transform 0.15s;
+  cursor: pointer;
+  transform: scale(1);
+}
+
+.RegisterMentor_profileBtnActive__KsG9Q {
+  background: #F6F7FF;
+  transform: scale(0.95);
+}
+
+.RegisterMentor_form___Lm6o {
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  width: 100%;
+}
+
+.RegisterMentor_label__cDU5V {
+  display: block;
+  color: #696CFF;
+  font-size: 13px;
+  font-weight: 500;
+  margin-bottom: 0.3rem;
+}
+
+.RegisterMentor_input__Bufy8 {
+  width: 100%;
+  border: 1px solid #696CFF;
+  border-radius: 8px;
+  padding: 0.7rem 1rem;
+  font-size: 1rem;
+  color: #23272E;
+  background: #fff;
+  outline: none;
+  transition: border 0.2s;
+}
+
+.RegisterMentor_input__Bufy8:focus {
+  border-color: #6C63FF;
+}
+
+.RegisterMentor_termsRow__raFxj {
+  display: flex;
+  align-items: center;
+  margin-top: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.RegisterMentor_checkbox__7ZLWf {
+  margin-right: 0.5rem;
+  margin-bottom: 1.2rem;
+  
+}
+
+.RegisterMentor_termsLabel__V929e {
+  font-size: 13px;
+}
+
+.RegisterMentor_termsLink__jqQoT {
+  color: #696CFF;
+  text-decoration: underline;
+  font-weight: 500;
+}
+
+.RegisterMentor_submitBtn__bFggC {
+  width: 100%;
+  background: #696CFF;
+  color: #fff;
+  font-weight: 600;
+  padding: 0.7rem 0;
+  border-radius: 8px;
+  font-size: 18px;
+  border: none;
+  margin-top: 0.5rem;
+  transition: background 0.2s;
+  cursor: pointer;
+}
+
+.RegisterMentor_submitBtn__bFggC:disabled {
+  background: #ecebff;
+  color: #A0A3BD;
+  cursor: not-allowed;
+}
+
+@media (max-width: 1100px) {
+  .RegisterMentor_registerContainer__7k2Yo {
+    width: 98vw;
+    height: 98vh;
+  }
+  .RegisterMentor_leftText__tu2W2 h2 {
+    font-size: 54px;
+  }
+}
+
+@media (max-width: 900px) {
+  .RegisterMentor_registerContainer__7k2Yo {
+    flex-direction: column;
+    width: 100vw;
+    height: auto;
+    min-height: 100vh;
+    border-radius: 0;
+  }
+  .RegisterMentor_left__6NUck, .RegisterMentor_right__uh_ng {
+    width: 100%;
+    border-radius: 0;
+    border-top-left-radius: 0;
+    border-bottom-left-radius: 0;
+  }
+  .RegisterMentor_right__uh_ng {
+    padding: 2rem 1rem;
+  }
+  .RegisterMentor_leftText__tu2W2 {
+    padding-top: 2rem;
+    padding-left: 2rem;
+    padding-right: 1rem;
+  }
+  .RegisterMentor_leftFooter__1FLOp {
+    padding-left: 2rem;
+    padding-bottom: 1rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .RegisterMentor_leftText__tu2W2 h2 {
+    font-size: 32px;
+  }
+  .RegisterMentor_formWrap__x2h0z {
+    max-width: 100%;
+  }
+}

@@ -1,0 +1,471 @@
+/*!*********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./styles/startup/StartupJobs.module.css ***!
+  \*********************************************************************************************************************************************************************************************************************************************************************************/
+.StartupJobs_bg__dy_w8 {
+  min-height: 100vh;
+  background: #F7F7FA;
+  display: flex;
+}
+
+.StartupJobs_sidebar__HmWzU {
+  width: 240px;
+  background: #F7F7FA;
+  display: flex;
+  flex-direction: column;
+  padding: 2rem 1.5rem 2rem 1.5rem;
+  border-right: 1px solid #ECECF1;
+  min-height: 100vh;
+}
+
+.StartupJobs_logoRow__H03HT {
+  display: flex;
+  align-items: center;
+  margin-bottom: 3rem;
+}
+
+.StartupJobs_logoText__j6xVI {
+  color: #696CFF;
+  font-size: 22px;
+  font-weight: bold;
+  margin-left: 0.75rem;
+}
+
+.StartupJobs_nav__3NBA1 {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.StartupJobs_navBtn__rXjuI {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.75rem 1rem;
+  border-radius: 10px;
+  font-size: 17px;
+  font-weight: 600;
+  color: #566A7F;
+  background: none;
+  border: none;
+  cursor: pointer;
+  transition: background 0.15s, color 0.15s;
+  position: relative;
+}
+
+.StartupJobs_navBtn__rXjuI:hover {
+  background: #F6F7FF;
+}
+
+.StartupJobs_navBtnActive__R_PT9 {
+  background: #F6F7FF;
+  color: #696CFF;
+}
+
+.StartupJobs_logoutBtn__Oc_78 {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: auto;
+  color: #696CFF;
+  font-size: 16px;
+  font-weight: 500;
+  background: none;
+  border: none;
+  padding: 0.5rem 0.5rem;
+  cursor: pointer;
+  transition: text-decoration 0.15s;
+}
+
+.StartupJobs_logoutBtn__Oc_78:hover {
+  text-decoration: underline;
+}
+
+.StartupJobs_main___mVk0 {
+  flex: 1;
+  background: #F7F7FA;
+  padding: 2.5rem 0 2.5rem 0;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.StartupJobs_headerRow__seMTI {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 2.5rem;
+  padding: 0 4rem;
+}
+
+.StartupJobs_searchWrap__vy2v4 {
+  position: relative;
+  width: 420px;
+}
+
+.StartupJobs_searchInput__46ArZ {
+  width: 100%;
+  padding: 0.85rem 1rem 0.85rem 2.7rem;
+  border-radius: 30px;
+  background: #F7F7FA;
+  color: #23272E;
+  font-size: 17px;
+  font-weight: 500;
+  border: 1px solid #ECECF1;
+  outline: none;
+  box-shadow: none;
+}
+
+.StartupJobs_searchIcon___dlb_ {
+  position: absolute;
+  left: 1.1rem;
+  top: 50%;
+  transform: translateY(-50%);
+  pointer-events: none;
+}
+
+.StartupJobs_profileRow__Eqhwk {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.StartupJobs_profileImg__2MoJu {
+  border-radius: 50%;
+  object-fit: cover;
+  width: 48px;
+  height: 48px;
+}
+
+.StartupJobs_profileName__gZgnb {
+  color: #23272E;
+  font-size: 16px;
+  font-weight: 600;
+  width: 100px;
+}
+
+.StartupJobs_titleRow__VHMO9 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 2.5rem;
+  padding: 0 4rem;
+}
+
+.StartupJobs_title__bW_3U {
+  color: #23272E;
+  font-size: 22px;
+  font-weight: bold;
+}
+
+.StartupJobs_createBtn__nUqWt {
+  background: #696CFF;
+  color: #fff;
+  padding: 0.5rem 2.2rem;
+  border-radius: 14px;
+  font-size: 17px;
+  font-weight: 600;
+  border: none;
+  transition: background 0.2s;
+  cursor: pointer;
+  box-shadow: none;
+}
+
+.StartupJobs_createBtn__nUqWt:hover {
+  background: #5a5ed8;
+}
+
+.StartupJobs_jobsList__96QTs {
+  display: flex;
+  gap: 2rem;
+  flex-wrap: wrap;
+  padding: 0 4rem;
+}
+
+.StartupJobs_jobCard__HFVRS {
+  background: #fff;
+  border-radius: 18px;
+  padding: 1.5rem;
+  position: relative;
+  border: 1px solid #ECECF1;
+  box-shadow: none;
+  width: 292px;
+  min-height: 320px;
+  padding-bottom: 56px;
+  display: flex;
+  flex-direction: column;
+}
+
+.StartupJobs_jobHeader__OmE85 {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.StartupJobs_jobLogoWrap__K6CQs {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  overflow: hidden;
+  background: #f3f3f3;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.StartupJobs_jobLogo__smAx0 {
+  width: 40px;
+  height: 40px;
+  object-fit: cover;
+  border-radius: 50%;
+}
+
+.StartupJobs_jobCompany__V2zBI {
+  color: #23272E;
+  font-size: 17px;
+  font-weight: 600;
+  width: 160px;
+}
+
+.StartupJobs_jobTitle__Lj9RM {
+  color: #566A7F;
+  font-size: 14px;
+  font-weight: 600;
+  margin-top: 12px;
+  margin-bottom: 4px;
+}
+
+.StartupJobs_jobDesc__UWaS8 {
+  color: #A0A3BD;
+  font-size: 13px;
+  min-height: 60px;
+  margin-top: 12px;
+  width: 230px;
+  margin-bottom: 1rem;
+}
+
+.StartupJobs_applicantsWrap__yrQIs {
+  position: absolute;
+  left: 24px;
+  bottom: 18px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.StartupJobs_applicantsAvatars__d6a2D {
+  display: flex;
+  align-items: center;
+}
+
+.StartupJobs_applicantAvatar__h5K_l {
+  border-radius: 50%;
+  object-fit: cover;
+  width: 32px;
+  height: 32px;
+  border: 2px solid #fff;
+}
+
+.StartupJobs_applicantsLabel__bNThB {
+  color: #A0A3BD;
+  font-size: 10px;
+  margin-top: 4px;
+}
+
+.StartupJobs_viewBtn__9aGaf {
+  background: #696CFF;
+  color: #fff;
+  font-weight: 600;
+  font-size: 11px;
+  padding: 3px 10px;
+  min-width: 60px;
+  height: 32px;
+  border-radius: 3px;
+  border: none;
+  position: absolute;
+  right: 18px;
+  bottom: 18px;
+  cursor: pointer;
+  transition: background 0.2s;
+  white-space: nowrap;
+}
+
+.StartupJobs_viewBtn__9aGaf:hover {
+  background: #5a5ed8;
+}
+
+.StartupJobs_removeBtn__IEzxq {
+  position: absolute;
+  top: 16px;
+  right: 16px;
+  background: #ef4444;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 4px 12px;
+  border-radius: 4px;
+  border: none;
+  cursor: pointer;
+  transition: background 0.15s;
+}
+
+.StartupJobs_removeBtn__IEzxq:hover {
+  background: #dc2626;
+}
+
+.StartupJobs_modalOverlay__o1Rik {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0,0,0,0.3);
+  backdrop-filter: blur(2px);
+}
+
+.StartupJobs_modalForm__tqvMd {
+  background: #fff;
+  border-radius: 18px;
+  box-shadow: 0 8px 32px 0 rgba(105,108,255,0.12);
+  padding: 2rem;
+  width: 480px;
+  position: relative;
+  border: 4px solid #BFC6FF;
+  display: flex;
+  flex-direction: column;
+}
+
+.StartupJobs_closeBtn__VQSO9 {
+  position: absolute;
+  top: 1.5rem;
+  right: 1.5rem;
+  background: none;
+  border: none;
+  color: #696CFF;
+  font-size: 22px;
+  font-weight: bold;
+  cursor: pointer;
+  line-height: 1;
+}
+
+.StartupJobs_modalTitle__ZEVAM {
+  color: #23272E;
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.StartupJobs_modalSubtitle__5V6XI {
+  color: #A0A3BD;
+  font-size: 16px;
+  margin-bottom: 1.5rem;
+}
+
+.StartupJobs_modalField__v4hW9 {
+  margin-bottom: 1.5rem;
+}
+
+.StartupJobs_modalLabel__QVGqK {
+  display: block;
+  color: #696CFF;
+  font-size: 15px;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.StartupJobs_modalInput__QcZ5a,
+.StartupJobs_modalTextarea__T_wub {
+  width: 100%;
+  border: 2px solid #BFC6FF;
+  border-radius: 10px;
+  padding: 0.75rem 1rem;
+  font-size: 16px;
+  color: #23272E;
+  font-weight: 500;
+  outline: none;
+  transition: border 0.2s;
+  margin-bottom: 0.5rem;
+}
+
+.StartupJobs_modalInput__QcZ5a:focus,
+.StartupJobs_modalTextarea__T_wub:focus {
+  border-color: #696CFF;
+}
+
+.StartupJobs_inputError__tL8EP {
+  border-color: #ef4444 !important;
+}
+
+.StartupJobs_errorMsg__gdWY4 {
+  color: #ef4444;
+  font-size: 14px;
+  margin-top: 0.5rem;
+}
+
+.StartupJobs_modalSubmitBtn__9C2lh {
+  width: 100%;
+  background: #696CFF;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 0.7rem 0;
+  border-radius: 10px;
+  border: none;
+  margin-top: 0.5rem;
+  transition: background 0.2s;
+  cursor: pointer;
+}
+
+.StartupJobs_modalSubmitBtn__9C2lh:hover {
+  background: #5a5ed8;
+}
+
+@media (max-width: 1200px) {
+  .StartupJobs_main___mVk0 {
+    padding: 1.2rem 0;
+  }
+  .StartupJobs_headerRow__seMTI,
+  .StartupJobs_titleRow__VHMO9,
+  .StartupJobs_jobsList__96QTs {
+    padding-left: 1rem;
+    padding-right: 1rem;
+  }
+}
+
+@media (max-width: 900px) {
+  .StartupJobs_sidebar__HmWzU {
+    width: 100px;
+    padding: 1rem 0.5rem;
+  }
+  .StartupJobs_logoText__j6xVI {
+    display: none;
+  }
+  .StartupJobs_main___mVk0 {
+    padding: 0.5rem 0;
+  }
+  .StartupJobs_headerRow__seMTI,
+  .StartupJobs_titleRow__VHMO9,
+  .StartupJobs_jobsList__96QTs {
+    padding-left: 0.5rem;
+    padding-right: 0.5rem;
+  }
+}
+
+@media (max-width: 600px) {
+  .StartupJobs_main___mVk0 {
+    padding: 0.2rem 0;
+  }
+  .StartupJobs_jobsList__96QTs {
+    gap: 1rem;
+  }
+  .StartupJobs_jobCard__HFVRS {
+    width: 100%;
+    min-width: 0;
+  }
+  .StartupJobs_modalForm__tqvMd {
+    width: 98vw;
+    min-width: 0;
+    padding: 1rem;
+  }
+}

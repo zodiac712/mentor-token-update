@@ -1,0 +1,348 @@
+/*!**********************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./styles/Mentor/MyStatsMentor.module.css ***!
+  \**********************************************************************************************************************************************************************************************************************************************************************************/
+
+.MyStatsMentor_container__AM5E3 {
+  min-height: 100vh;
+  background: #F6F7FF;
+  display: flex;
+}
+
+
+.MyStatsMentor_sidebar__cPoXe {
+  width: 260px;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  padding: 2rem 1.5rem;
+  box-shadow: 0 2px 16px rgba(160, 163, 189, 0.07);
+  min-height: 100vh;
+}
+
+.MyStatsMentor_logoRow__7NGDe {
+  display: flex;
+  align-items: center;
+  margin-bottom: 3rem;
+}
+
+.MyStatsMentor_logoText__Xstfw {
+  color: #696CFF;
+  font-size: 22px;
+  font-weight: bold;
+  margin-left: 0.75rem;
+}
+
+.MyStatsMentor_nav__Zq6H_ {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.MyStatsMentor_navButton__qA8qZ {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.75rem 1rem;
+  border-radius: 0.5rem;
+  font-weight: 600;
+  font-size: 17px;
+  color: #566A7F;
+  background: none;
+  border: none;
+  transition: background 0.2s, color 0.2s;
+  cursor: pointer;
+}
+
+.MyStatsMentor_navButtonActive__c2Qf8 {
+  background: #F6F7FF;
+  color: #696CFF;
+}
+
+.MyStatsMentor_navButton__qA8qZ:hover:not(.MyStatsMentor_navButtonActive__c2Qf8) {
+  background: #F6F7FF;
+}
+
+.MyStatsMentor_logoutButton__3iBiN {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: auto;
+  color: #696CFF;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 0.5rem 0.5rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.MyStatsMentor_logoutButton__3iBiN:hover {
+  text-decoration: underline;
+}
+
+
+.MyStatsMentor_main__ffDZC {
+  flex: 1;
+  background: #F8F8FB;
+  padding: 0;
+}
+
+.MyStatsMentor_header__bPT8v {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 2rem 3rem 1.5rem 3rem;
+}
+
+.MyStatsMentor_searchContainer__RlYBZ {
+  position: relative;
+  width: 420px;
+}
+
+.MyStatsMentor_searchInput__2qkIz {
+  width: 100%;
+  padding: 0.75rem 1rem 0.75rem 3rem;
+  border-radius: 30px;
+  background: #fff;
+  color: #23272E;
+  font-size: 17px;
+  font-weight: 500;
+  box-shadow: 0 2px 16px rgba(160, 163, 189, 0.07);
+  border: none;
+  outline: none;
+}
+
+.MyStatsMentor_searchIcon__NRIT7 {
+  position: absolute;
+  left: 1rem;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.MyStatsMentor_profileRow__KbObB {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+.MyStatsMentor_profileInfo__vsjXV {
+  display: flex;
+  flex-direction: column;
+}
+
+.MyStatsMentor_profileName___LN77 {
+  color: #23272E;
+  font-size: 16px;
+  font-weight: 600;
+  line-height: 1.1;
+}
+
+.MyStatsMentor_profileRole__w5I5i {
+  color: #A0A3BD;
+  font-size: 14px;
+  line-height: 1.1;
+}
+
+
+.MyStatsMentor_statsSection__ib5kw {
+  padding: 0 3rem 2.5rem 3rem;
+}
+
+.MyStatsMentor_statsTitle__XH0Ok {
+  color: #23272E;
+  font-size: 24px;
+  font-weight: bold;
+  margin-bottom: 1.5rem;
+}
+
+.MyStatsMentor_statsRow__qlJ2d {
+  display: flex;
+  gap: 1.5rem;
+  margin-bottom: 2.5rem;
+}
+
+
+.MyStatsMentor_profileCard__820de {
+  background: #fff;
+  border-radius: 18px;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 300px;
+  box-shadow: 0 2px 16px rgba(160, 163, 189, 0.07);
+  min-height: 260px;
+}
+
+.MyStatsMentor_profileAvatar__UuR58 {
+  width: 90px;
+  height: 90px;
+  border-radius: 50%;
+  overflow: hidden;
+  margin-bottom: 1rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: #f3f3f3;
+}
+
+.MyStatsMentor_profileNameRow__68EDi {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.25rem;
+}
+
+.MyStatsMentor_profileJob__vm2f1 {
+  color: #696CFF;
+  font-size: 15px;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.MyStatsMentor_profileContact__LDMJh {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #A0A3BD;
+  font-size: 15px;
+  margin-bottom: 0.25rem;
+}
+
+
+.MyStatsMentor_aboutCard__GmRP_ {
+  background: #fff;
+  border-radius: 18px;
+  padding: 2rem;
+  flex: 1;
+  box-shadow: 0 2px 16px rgba(160, 163, 189, 0.07);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 260px;
+}
+
+.MyStatsMentor_aboutHeader__gohci {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 0.5rem;
+}
+
+.MyStatsMentor_aboutTitle__sRfrT {
+  color: #696CFF;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+.MyStatsMentor_aboutSkills__xz2Fl {
+  font-weight: 600;
+  color: #23272E;
+  font-size: 16px;
+  margin-bottom: 0.5rem;
+}
+
+.MyStatsMentor_aboutText__EDNlV {
+  color: #A0A3BD;
+  font-size: 15px;
+}
+
+
+.MyStatsMentor_performanceQuickRow__2mEBb {
+  display: flex;
+  gap: 1.5rem;
+}
+
+
+.MyStatsMentor_performanceCard__FTWN_ {
+  flex: 0;
+}
+
+.MyStatsMentor_performanceTitle__y2cFp {
+  color: #23272E;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 0.75rem;
+}
+
+.MyStatsMentor_performanceInner__T7u8p {
+  background: #fff;
+  border-radius: 18px;
+  box-shadow: 0 2px 16px rgba(160, 163, 189, 0.07);
+  padding: 1.5rem;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+}
+
+.MyStatsMentor_performanceStats__OdbTR {
+  margin-bottom: 1rem;
+}
+
+.MyStatsMentor_performanceStatsTitle__yw4_P {
+  color: #23272E;
+  font-size: 16px;
+  font-weight: bold;
+  margin-bottom: 0.25rem;
+}
+
+.MyStatsMentor_performanceStatsDesc__MBUQc {
+  color: #A0A3BD;
+  font-size: 14px;
+}
+
+
+.MyStatsMentor_performanceChart__WUdww svg path {
+  stroke-width: 1.2 !important;
+}
+
+
+.MyStatsMentor_quickOverview__Kn0fj {
+  width: 320px;
+  display: flex;
+  flex-direction: column;
+  gap: 1.5rem;
+}
+
+.MyStatsMentor_quickOverviewTitle__iC3aB {
+  color: #23272E;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 0.75rem;
+}
+
+.MyStatsMentor_quickOverviewList__LNhcv {
+  display: flex;
+  flex-direction: column;
+  gap: 0.75rem;
+}
+
+.MyStatsMentor_quickOverviewItem__tV4tQ {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  background: #F6F7FF;
+  border-radius: 10px;
+  padding: 0.75rem 1rem;
+}
+
+.MyStatsMentor_quickOverviewItemFinished__jrSOX {
+  background: #696CFF;
+}
+
+.MyStatsMentor_quickOverviewItem__tV4tQ span {
+  font-size: 15px;
+  font-weight: 600;
+  color: #23272E;
+}
+
+.MyStatsMentor_quickOverviewItem__tV4tQ .MyStatsMentor_quickOverviewValue___NoJP {
+  color: #696CFF;
+  font-size: 22px;
+  font-weight: bold;
+  margin-top: 0.25rem;
+}
+
+.MyStatsMentor_quickOverviewItemFinished__jrSOX span {
+  color: #fff;
+}

@@ -1,0 +1,495 @@
+/*!*******************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./styles/profile-mentors/Marcus-Carder.module.css ***!
+  \*******************************************************************************************************************************************************************************************************************************************************************************************/
+.Marcus-Carder_container__mYOH_ {
+  min-height: 100vh;
+  background: #F5F5F9;
+  display: flex;
+}
+
+
+.Marcus-Carder_sidebar__nNC5K {
+  width: 260px;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  padding: 2rem 1.5rem;
+  box-shadow: 0 2px 16px rgba(160, 163, 189, 0.07);
+  min-height: 100vh;
+}
+
+.Marcus-Carder_logoRow__puwm2 {
+  display: flex;
+  align-items: center;
+  margin-bottom: 3rem;
+}
+
+.Marcus-Carder_logoText__m02Ms {
+  color: #696CFF;
+  font-size: 22px;
+  font-weight: bold;
+  margin-left: 0.75rem;
+}
+
+.Marcus-Carder_nav__tUe9r {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.Marcus-Carder_navButton__Vn6pI {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.75rem 1rem;
+  border-radius: 0.5rem;
+  font-weight: 600;
+  font-size: 17px;
+  color: #566A7F;
+  background: none;
+  border: none;
+  transition: background 0.2s, color 0.2s;
+  cursor: pointer;
+}
+
+.Marcus-Carder_navButtonActive__aTNn7 {
+  background: #F6F7FF;
+  color: #696CFF;
+}
+
+.Marcus-Carder_navButton__Vn6pI:hover:not(.Marcus-Carder_navButtonActive__aTNn7) {
+  background: #F6F7FF;
+}
+
+.Marcus-Carder_logoutButton__6YJhs {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: auto;
+  color: #696CFF;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 0.5rem 0.5rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.Marcus-Carder_logoutButton__6YJhs:hover {
+  text-decoration: underline;
+}
+
+
+.Marcus-Carder_main__yZN4d {
+  flex: 1;
+  background: #F5F5F9;
+  padding: 2.5rem;
+}
+
+.Marcus-Carder_header__VxMuW {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+}
+
+.Marcus-Carder_searchContainer__jJ6lO {
+  position: relative;
+  width: 420px;
+}
+
+.Marcus-Carder_searchInput__07o4n {
+  width: 100%;
+  padding: 0.75rem 1rem 0.75rem 1rem;
+  border-radius: 30px;
+  background: #fff;
+  color: #23272E;
+  font-size: 17px;
+  font-weight: 500;
+  box-shadow: 0 2px 16px rgba(160, 163, 189, 0.07);
+  border: none;
+  outline: none;
+}
+
+.Marcus-Carder_profileRow__0_UHo {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-right: 40px;
+}
+
+.Marcus-Carder_profileAvatarSmall__2FxxV {
+  border-radius: 50%;
+  object-fit: cover;
+  width: 48px;
+  height: 48px;
+}
+
+.Marcus-Carder_profileNameSmall__WL3I6 {
+  color: #23272E;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+
+.Marcus-Carder_profileAboutRow__zi_OV {
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.Marcus-Carder_profileCard__PWxuj {
+  background: #fff;
+  border-radius: 18px;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 320px;
+  box-shadow: 0 2px 16px rgba(160, 163, 189, 0.07);
+  min-height: 370px;
+}
+
+.Marcus-Carder_profileAvatar__cNKs7 {
+  border-radius: 50%;
+  object-fit: cover;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1rem;
+}
+
+.Marcus-Carder_profileNameRow__C_JzQ {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.Marcus-Carder_profileName__3Nz5J {
+  color: #23272E;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.Marcus-Carder_profileJob__AXIJe {
+  color: #696CFF;
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.Marcus-Carder_profileContact__g0sKc {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #A0A3BD;
+  font-size: 15px;
+  margin-bottom: 0.25rem;
+}
+
+
+.Marcus-Carder_aboutCard__C3tSU {
+  background: #fff;
+  border-radius: 18px;
+  padding: 2rem;
+  flex: 1;
+  box-shadow: 0 2px 16px rgba(160, 163, 189, 0.07);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 370px;
+}
+
+.Marcus-Carder_aboutTitle__6saK2 {
+  color: #696CFF;
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.Marcus-Carder_aboutSkills__goRwj {
+  font-weight: 600;
+  color: #23272E;
+  font-size: 16px;
+  margin-bottom: 0.5rem;
+}
+
+.Marcus-Carder_aboutText__Z9ExV {
+  color: #A0A3BD;
+  font-size: 15px;
+}
+
+.Marcus-Carder_offerJobBtn__Pptao {
+  background: #696CFF;
+  color: #fff;
+  padding: 0.5rem 1.5rem;
+  border-radius: 10px;
+  font-weight: 600;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  align-self: flex-end;
+  margin-top: 1.5rem;
+  transition: background 0.2s;
+}
+
+.Marcus-Carder_offerJobBtn__Pptao:hover {
+  background: #5a5ed8;
+}
+
+
+.Marcus-Carder_jobsRow__Ur_oo {
+  display: flex;
+  gap: 2rem;
+}
+
+
+.Marcus-Carder_assignedJobs__YHYok {
+  flex: 1;
+}
+
+.Marcus-Carder_pendingJobs__spU8n {
+  width: 340px;
+}
+
+.Marcus-Carder_sectionTitle__0dMpx {
+  color: #23272E;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.Marcus-Carder_tabs__pEd6E {
+  display: flex;
+  gap: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.Marcus-Carder_tabButton__h_XoM {
+  font-weight: 600;
+  padding-bottom: 0.5rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  border-bottom: 2px solid transparent;
+  background: none;
+  color: #A0A3BD;
+  font-size: 16px;
+  cursor: pointer;
+  transition: color 0.2s, border-color 0.2s;
+}
+
+.Marcus-Carder_tabButtonActive__10cFv {
+  color: #696CFF;
+  border-bottom: 2px solid #696CFF;
+}
+
+.Marcus-Carder_jobList__XgwD_ {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px 0 rgba(76, 110, 245, 0.04);
+  padding: 0.5rem 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.Marcus-Carder_jobCard__uvpFC {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem 1.5rem;
+  border-bottom: 1px solid #f0f0f5;
+}
+
+.Marcus-Carder_jobCard__uvpFC:last-child {
+  border-bottom: none;
+}
+
+.Marcus-Carder_jobName__WFfjw {
+  color: #23272E;
+  font-size: 15px;
+}
+
+.Marcus-Carder_statusDone__aGPAq {
+  background: #E7F9F1;
+  color: #48E285;
+  padding: 0.25rem 1rem;
+  border-radius: 9999px;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.Marcus-Carder_statusCanceled__VMfdm {
+  background: #FFE7F1;
+  color: #FF6A9A;
+  padding: 0.25rem 1rem;
+  border-radius: 9999px;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.Marcus-Carder_inProgressRow__axeer {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.Marcus-Carder_statusInProgress__uD7bI {
+  background: #F6F7FF;
+  color: #696CFF;
+  padding: 0.25rem 1rem;
+  border-radius: 9999px;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.Marcus-Carder_cancelJobBtn___3jK3 {
+  border: 1px solid #FF6A9A;
+  color: #FF6A9A;
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  font-size: 13px;
+  font-weight: 600;
+  background: #fff;
+  margin-left: 0.5rem;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.Marcus-Carder_cancelJobBtn___3jK3:hover {
+  background: #FFE7F1;
+}
+
+.Marcus-Carder_cancelOfferBtn__xxi8G {
+  border: 1px solid #FF6A9A;
+  color: #FF6A9A;
+  padding: 0.25rem 1rem;
+  border-radius: 9999px;
+  font-size: 13px;
+  font-weight: 600;
+  background: #fff;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.Marcus-Carder_cancelOfferBtn__xxi8G:hover {
+  background: #FFE7F1;
+}
+
+
+.Marcus-Carder_modalOverlay__YdSwT {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0,0,0,0.3);
+  backdrop-filter: blur(2px);
+}
+
+.Marcus-Carder_modal__gAIv8 {
+  background: #fff;
+  border-radius: 18px;
+  box-shadow: 0 8px 32px 0 rgba(105,108,255,0.12);
+  padding: 2rem;
+  width: 480px;
+  position: relative;
+  border: 4px solid #BFC6FF;
+}
+
+.Marcus-Carder_closeModalBtn__U_UQ8 {
+  position: absolute;
+  top: 1.5rem;
+  right: 1.5rem;
+  color: #696CFF;
+  background: none;
+  border: none;
+  font-size: 22px;
+  font-weight: bold;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.Marcus-Carder_modalTitle__SVX_Y {
+  color: #23272E;
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.Marcus-Carder_modalDesc__U0Hny {
+  color: #A0A3BD;
+  font-size: 16px;
+  margin-bottom: 1.5rem;
+}
+
+.Marcus-Carder_modalField__wF7P5 {
+  margin-bottom: 1rem;
+}
+
+.Marcus-Carder_modalLabel__fTkRd {
+  display: block;
+  color: #696CFF;
+  font-size: 15px;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.Marcus-Carder_modalLabelDesc__skSPL {
+  display: block;
+  color: #A0A3BD;
+  font-size: 15px;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.Marcus-Carder_modalInput__xT3_D {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  border-radius: 10px;
+  border: 2px solid #BFC6FF;
+  color: #23272E;
+  font-size: 16px;
+  font-weight: 500;
+  outline: none;
+  margin-bottom: 0.5rem;
+}
+
+.Marcus-Carder_modalInput__xT3_D:focus {
+  border-color: #696CFF;
+}
+
+.Marcus-Carder_modalTextarea__xBshr {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  border-radius: 10px;
+  border: 2px solid #BFC6FF;
+  color: #23272E;
+  font-size: 16px;
+  font-weight: 500;
+  outline: none;
+  resize: none;
+}
+
+.Marcus-Carder_modalTextarea__xBshr:focus {
+  border-color: #696CFF;
+}
+
+.Marcus-Carder_sendJobOfferBtn__oYwtG {
+  width: 100%;
+  background: #696CFF;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 0.75rem 0;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  margin-top: 0.5rem;
+  transition: background 0.2s;
+}
+
+.Marcus-Carder_sendJobOfferBtn__oYwtG:hover {
+  background: #5a5ed8;
+}

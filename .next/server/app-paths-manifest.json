@@ -1,0 +1,12 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/startup-dashboard/page": "app/startup-dashboard/page.js",
+  "/login/page": "app/login/page.js",
+  "/register/page": "app/register/page.js",
+  "/startup-dashboard/startup-mentors/page": "app/startup-dashboard/startup-mentors/page.js",
+  "/register-mentor/page": "app/register-mentor/page.js",
+  "/startup-dashboard/startup-mentors/kierra-press/page": "app/startup-dashboard/startup-mentors/kierra-press/page.js",
+  "/mentor-dashboard/my-stats/page": "app/mentor-dashboard/my-stats/page.js",
+  "/mentor-dashboard/page": "app/mentor-dashboard/page.js",
+  "/mentor-dashboard/jobsfeedmentor/page": "app/mentor-dashboard/jobsfeedmentor/page.js"
+}

@@ -1,0 +1,494 @@
+/*!******************************************************************************************************************************************************************************************************************************************************************************************!*\
+  !*** css ./node_modules/next/dist/build/webpack/loaders/css-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[2]!./node_modules/next/dist/build/webpack/loaders/postcss-loader/src/index.js??ruleSet[1].rules[13].oneOf[5].use[3]!./styles/profile-mentors/Kierra-Press.module.css ***!
+  \******************************************************************************************************************************************************************************************************************************************************************************************/
+.Kierra-Press_container__uiXd4 {
+  min-height: 100vh;
+  background: #F5F5F9;
+  display: flex;
+}
+
+
+.Kierra-Press_sidebar__6X_CN {
+  width: 260px;
+  background: #fff;
+  display: flex;
+  flex-direction: column;
+  padding: 2rem 1.5rem;
+  box-shadow: 0 2px 16px rgba(160, 163, 189, 0.07);
+  min-height: 100vh;
+}
+
+.Kierra-Press_logoRow__AFOtd {
+  display: flex;
+  align-items: center;
+  margin-bottom: 3rem;
+}
+
+.Kierra-Press_logoText__808jF {
+  color: #696CFF;
+  font-size: 22px;
+  font-weight: bold;
+  margin-left: 0.75rem;
+}
+
+.Kierra-Press_nav__3L7p4 {
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.Kierra-Press_navButton__Q8QJd {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  padding: 0.75rem 1rem;
+  border-radius: 0.5rem;
+  font-weight: 600;
+  font-size: 17px;
+  color: #566A7F;
+  background: none;
+  border: none;
+  transition: background 0.2s, color 0.2s;
+  cursor: pointer;
+}
+
+.Kierra-Press_navButtonActive__r6nrW {
+  background: #F6F7FF;
+  color: #696CFF;
+}
+
+.Kierra-Press_navButton__Q8QJd:hover:not(.Kierra-Press_navButtonActive__r6nrW) {
+  background: #F6F7FF;
+}
+
+.Kierra-Press_logoutButton__7XHSO {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-top: auto;
+  color: #696CFF;
+  font-size: 16px;
+  font-weight: 500;
+  padding: 0.5rem 0.5rem;
+  background: none;
+  border: none;
+  cursor: pointer;
+}
+
+.Kierra-Press_logoutButton__7XHSO:hover {
+  text-decoration: underline;
+}
+
+
+.Kierra-Press_main__PEIHR {
+  flex: 1;
+  background: #F5F5F9;
+  padding: 2.5rem;
+}
+
+.Kierra-Press_header__OI19f {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: 2rem;
+}
+
+.Kierra-Press_searchContainer__wJ2sq {
+  position: relative;
+  width: 420px;
+}
+
+.Kierra-Press_searchInput__R7Dvg {
+  width: 100%;
+  padding: 0.75rem 1rem 0.75rem 1rem;
+  border-radius: 30px;
+  background: #fff;
+  color: #23272E;
+  font-size: 17px;
+  font-weight: 500;
+  box-shadow: 0 2px 16px rgba(160, 163, 189, 0.07);
+  border: none;
+  outline: none;
+}
+
+.Kierra-Press_profileRow__cjuO0 {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  margin-right: 40px;
+}
+
+.Kierra-Press_profileAvatarSmall__80E9x {
+  border-radius: 50%;
+  object-fit: cover;
+  width: 48px;
+  height: 48px;
+}
+
+.Kierra-Press_profileNameSmall__31KRu {
+  color: #23272E;
+  font-size: 16px;
+  font-weight: 600;
+}
+
+
+.Kierra-Press_profileAboutRow__9Sbou {
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.Kierra-Press_profileCard__3D9oj {
+  background: #fff;
+  border-radius: 18px;
+  padding: 2rem;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 320px;
+  box-shadow: 0 2px 16px rgba(160, 163, 189, 0.07);
+  min-height: 370px;
+}
+
+.Kierra-Press_profileAvatar__HMaon {
+  border-radius: 50%;
+  object-fit: cover;
+  width: 120px;
+  height: 120px;
+  margin-bottom: 1rem;
+}
+
+.Kierra-Press_profileNameRow__TD_EH {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  margin-bottom: 0.5rem;
+}
+
+.Kierra-Press_profileName__m02sG {
+  color: #23272E;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.Kierra-Press_profileJob__OBI3d {
+  color: #696CFF;
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.Kierra-Press_profileContact__WN5sz {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #A0A3BD;
+  font-size: 15px;
+  margin-bottom: 0.25rem;
+}
+
+
+.Kierra-Press_aboutCard__LDcek {
+  background: #fff;
+  border-radius: 18px;
+  padding: 2rem;
+  flex: 1;
+  box-shadow: 0 2px 16px rgba(160, 163, 189, 0.07);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  min-height: 370px;
+}
+
+.Kierra-Press_aboutTitle__DG3pz {
+  color: #696CFF;
+  font-size: 16px;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.Kierra-Press_aboutSkills__YaS5T {
+  font-weight: 600;
+  color: #23272E;
+  font-size: 16px;
+  margin-bottom: 0.5rem;
+}
+
+.Kierra-Press_aboutText__PknfL {
+  color: #A0A3BD;
+  font-size: 15px;
+}
+
+.Kierra-Press_offerJobBtn__69Tpk {
+  background: #696CFF;
+  color: #fff;
+  padding: 0.5rem 1.5rem;
+  border-radius: 10px;
+  font-weight: 600;
+  font-size: 16px;
+  border: none;
+  cursor: pointer;
+  align-self: flex-end;
+  margin-top: 1.5rem;
+  transition: background 0.2s;
+}
+
+.Kierra-Press_offerJobBtn__69Tpk:hover {
+  background: #5a5ed8;
+}
+
+
+.Kierra-Press_jobsRow__1kljQ {
+  display: flex;
+  gap: 2rem;
+}
+
+.Kierra-Press_assignedJobs__YV9Gp {
+  flex: 1;
+}
+
+.Kierra-Press_pendingJobs__sp_45 {
+  width: 340px;
+}
+
+.Kierra-Press_sectionTitle__ycRuh {
+  color: #23272E;
+  font-size: 20px;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.Kierra-Press_tabs__pYiJE {
+  display: flex;
+  gap: 1.5rem;
+  margin-bottom: 1rem;
+}
+
+.Kierra-Press_tabButton__cpfCj {
+  font-weight: 600;
+  padding-bottom: 0.5rem;
+  padding-left: 0.5rem;
+  padding-right: 0.5rem;
+  border-bottom: 2px solid transparent;
+  background: none;
+  color: #A0A3BD;
+  font-size: 16px;
+  cursor: pointer;
+  transition: color 0.2s, border-color 0.2s;
+}
+
+.Kierra-Press_tabButtonActive__952LP {
+  color: #696CFF;
+  border-bottom: 2px solid #696CFF;
+}
+
+.Kierra-Press_jobList__Xa5So {
+  background: #fff;
+  border-radius: 12px;
+  box-shadow: 0 2px 8px 0 rgba(76, 110, 245, 0.04);
+  padding: 0.5rem 0;
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.Kierra-Press_jobCard__vRUO1 {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 0.75rem 1.5rem;
+  border-bottom: 1px solid #f0f0f5;
+}
+
+.Kierra-Press_jobCard__vRUO1:last-child {
+  border-bottom: none;
+}
+
+.Kierra-Press_jobName___GGio {
+  color: #23272E;
+  font-size: 15px;
+}
+
+.Kierra-Press_statusDone__bwtZw {
+  background: #E7F9F1;
+  color: #48E285;
+  padding: 0.25rem 1rem;
+  border-radius: 9999px;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.Kierra-Press_statusCanceled__KHcyN {
+  background: #FFE7F1;
+  color: #FF6A9A;
+  padding: 0.25rem 1rem;
+  border-radius: 9999px;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.Kierra-Press_inProgressRow__h75XN {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.Kierra-Press_statusInProgress__ywG3s {
+  background: #F6F7FF;
+  color: #696CFF;
+  padding: 0.25rem 1rem;
+  border-radius: 9999px;
+  font-size: 13px;
+  font-weight: 600;
+}
+
+.Kierra-Press_cancelJobBtn__20d8V {
+  border: 1px solid #FF6A9A;
+  color: #FF6A9A;
+  padding: 0.25rem 0.75rem;
+  border-radius: 9999px;
+  font-size: 13px;
+  font-weight: 600;
+  background: #fff;
+  margin-left: 0.5rem;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.Kierra-Press_cancelJobBtn__20d8V:hover {
+  background: #FFE7F1;
+}
+
+.Kierra-Press_cancelOfferBtn__CT7HF {
+  border: 1px solid #FF6A9A;
+  color: #FF6A9A;
+  padding: 0.25rem 1rem;
+  border-radius: 9999px;
+  font-size: 13px;
+  font-weight: 600;
+  background: #fff;
+  cursor: pointer;
+  transition: background 0.2s;
+}
+
+.Kierra-Press_cancelOfferBtn__CT7HF:hover {
+  background: #FFE7F1;
+}
+
+
+.Kierra-Press_modalOverlay__rD79n {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0,0,0,0.3);
+  backdrop-filter: blur(2px);
+}
+
+.Kierra-Press_modal__doTQe {
+  background: #fff;
+  border-radius: 18px;
+  box-shadow: 0 8px 32px 0 rgba(105,108,255,0.12);
+  padding: 2rem;
+  width: 480px;
+  position: relative;
+  border: 4px solid #BFC6FF;
+}
+
+.Kierra-Press_closeModalBtn__OlCOB {
+  position: absolute;
+  top: 1.5rem;
+  right: 1.5rem;
+  color: #696CFF;
+  background: none;
+  border: none;
+  font-size: 22px;
+  font-weight: bold;
+  line-height: 1;
+  cursor: pointer;
+}
+
+.Kierra-Press_modalTitle__5LQiv {
+  color: #23272E;
+  font-size: 28px;
+  font-weight: bold;
+  margin-bottom: 0.5rem;
+}
+
+.Kierra-Press_modalDesc__CfS2K {
+  color: #A0A3BD;
+  font-size: 16px;
+  margin-bottom: 1.5rem;
+}
+
+.Kierra-Press_modalField__PtoH8 {
+  margin-bottom: 1rem;
+}
+
+.Kierra-Press_modalLabel__j6ErU {
+  display: block;
+  color: #696CFF;
+  font-size: 15px;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.Kierra-Press_modalLabelDesc__azun0 {
+  display: block;
+  color: #A0A3BD;
+  font-size: 15px;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+.Kierra-Press_modalInput__zodxk {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  border-radius: 10px;
+  border: 2px solid #BFC6FF;
+  color: #23272E;
+  font-size: 16px;
+  font-weight: 500;
+  outline: none;
+  margin-bottom: 0.5rem;
+}
+
+.Kierra-Press_modalInput__zodxk:focus {
+  border-color: #696CFF;
+}
+
+.Kierra-Press_modalTextarea__3kzwG {
+  width: 100%;
+  padding: 0.75rem 1rem;
+  border-radius: 10px;
+  border: 2px solid #BFC6FF;
+  color: #23272E;
+  font-size: 16px;
+  font-weight: 500;
+  outline: none;
+  resize: none;
+}
+
+.Kierra-Press_modalTextarea__3kzwG:focus {
+  border-color: #696CFF;
+}
+
+.Kierra-Press_sendJobOfferBtn__qxioo {
+  width: 100%;
+  background: #696CFF;
+  color: #fff;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 0.75rem 0;
+  border-radius: 10px;
+  border: none;
+  cursor: pointer;
+  margin-top: 0.5rem;
+  transition: background 0.2s;
+}
+
+.Kierra-Press_sendJobOfferBtn__qxioo:hover {
+  background: #5a5ed8;
+}
